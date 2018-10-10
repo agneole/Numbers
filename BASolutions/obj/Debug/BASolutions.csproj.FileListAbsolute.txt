@@ -1,7 +1,0 @@
-C:\Users\agneo\source\repos\BASolutions\BASolutions\bin\Debug\BASolutions.exe.config
-C:\Users\agneo\source\repos\BASolutions\BASolutions\bin\Debug\BASolutions.exe
-C:\Users\agneo\source\repos\BASolutions\BASolutions\bin\Debug\BASolutions.pdb
-C:\Users\agneo\source\repos\BASolutions\BASolutions\obj\Debug\BASolutions.csprojResolveAssemblyReference.cache
-C:\Users\agneo\source\repos\BASolutions\BASolutions\obj\Debug\BASolutions.csproj.CoreCompileInputs.cache
-C:\Users\agneo\source\repos\BASolutions\BASolutions\obj\Debug\BASolutions.exe
-C:\Users\agneo\source\repos\BASolutions\BASolutions\obj\Debug\BASolutions.pdb
